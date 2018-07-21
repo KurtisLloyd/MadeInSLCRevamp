@@ -1,0 +1,22 @@
+{
+  "name": "madeinslcrevamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurtisLloyd/MadeInSLCRevamp.git"
+  },
+  "author": "Kurtis Lloyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurtisLloyd/MadeInSLCRevamp/issues"
+  },
+  "homepage": "https://github.com/KurtisLloyd/MadeInSLCRevamp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
